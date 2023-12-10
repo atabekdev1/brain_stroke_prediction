@@ -29,9 +29,8 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/brain-stroke-prediction.git
-2. Download Jupyter and install it
-   
-   (https://www.anaconda.com/download)
+2. Download Jupyter and install it     
+   https://www.anaconda.com/download
 4. Open the Jupyter Notebook, head to the cloned repository directory and open brain_stroke_prediction.ipynb
 
 
