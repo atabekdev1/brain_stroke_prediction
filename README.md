@@ -13,8 +13,8 @@ The program predicts whether a person would have a brain stroke or not. A stroke
 3. [Seaborn Pairplot Documentation](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
 4. [Imbalanced-Learn SMOTEENN Reference](https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html)
 5. [Scikit-Learn Documentation](https://scikit-learn.org/0.21/documentation.html)
-6. [YouTube Video 1](https://www.youtube.com/watch?v=7eh4d6sabA0&t=2569s)
-7. [YouTube Video 2](https://www.youtube.com/watch?v=OS2m0f2gVJ0&t=763s)
+6. [Machine Learning Tutorial 1](https://www.youtube.com/watch?v=7eh4d6sabA0&t=2569s)
+7. [Cleaning Data Tutorial 2](https://www.youtube.com/watch?v=OS2m0f2gVJ0&t=763s)
 8. [Pandas Series Map Documentation](https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html)
 
 ### Prerequisites
