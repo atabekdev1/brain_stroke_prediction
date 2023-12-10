@@ -35,6 +35,8 @@ Ensure you have the following installed:
 3. Open the Jupyter Notebook, head to the cloned repository directory and open brain_stroke_prediction.ipynb
 
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
+
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 The GNU GPL license allows others to freely use, modify, and distribute this software, provided they also distribute any modified versions under the same license.
