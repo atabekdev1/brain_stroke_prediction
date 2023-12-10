@@ -1,6 +1,8 @@
 # Brain Stroke Prediction
 
-![Brain Stroke](image.jpg)
+<p align="center">
+  <img src="image.jpg" alt="Brain Stroke">
+</p>
 
 ## Description
 
