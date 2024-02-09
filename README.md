@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/brain-stroke-prediction.git
+   git clone https://github.com/Atabek786/brain-stroke-prediction.git
 2. Download Jupyter and install it     
    https://www.anaconda.com/download
    
