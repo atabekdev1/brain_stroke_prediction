@@ -6,7 +6,7 @@
 
 ## Description
 
-The program predicts whether a person would have a brain stroke or not. A stroke, also known as a brain attack, occurs when blood flow to a portion of the brain is obstructed or when a blood vessel in the brain ruptures. In both scenarios, sections of the brain suffer damage or cease to function due to this occurrence. Prevention is a crucial strategy to mitigate the risk of experiencing a stroke.
+The program tries to predict whether a person would have a brain stroke or not. A stroke, also known as a brain attack, occurs when blood flow to a portion of the brain is obstructed or when a blood vessel in the brain ruptures. In both scenarios, sections of the brain suffer damage or cease to function due to this occurrence. Prevention is a crucial strategy to mitigate the risk of experiencing a stroke.
 
 ## Resources
 
@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Atabek786/brain-stroke-prediction.git
+   git clone https://github.com/atabekdev1/brain-stroke-prediction.git
 2. Download Jupyter and install it     
    https://www.anaconda.com/download
    
